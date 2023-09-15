@@ -113,7 +113,7 @@ AI researchers include
 [@ylecun](https://twitter.com/ylecun)
 
 - Terrence Sejnowski 2023 President
-[Terrence Sejnowski (@sejnowski) / X](https://twitter.com/sejnowski)
+[Terrence Sejnowski (@sejnowski)](https://twitter.com/sejnowski)
 
 ### 6.3 AI Company
 
