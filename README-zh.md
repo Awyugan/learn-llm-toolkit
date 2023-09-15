@@ -105,9 +105,13 @@ AI研究者包含
 ### 6.2 机器学习会议期刊
 
 - Francis Bach 2023 ICML President
-https://twitter.com/BachFrancis
+[@BachFrancis](https://twitter.com/BachFrancis)
 
-- 
+- Yann LeCun 2023 ICIR President
+[@ylecun](https://twitter.com/ylecun)
+
+- Terrence Sejnowski 2023 President
+[Terrence Sejnowski (@sejnowski) / X](https://twitter.com/sejnowski)
 
 ### 6.3 AI公司
 
