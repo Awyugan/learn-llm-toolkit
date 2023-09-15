@@ -1,0 +1,1 @@
+# Christopher D. Manning 克里斯托弗·D·曼宁website:## Ref[A few talks by Christopher Manning](https://nlp.stanford.edu/~manning/talks/)

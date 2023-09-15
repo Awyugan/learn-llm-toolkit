@@ -1,0 +1,1 @@
+# Andrew NG这里收录吴恩达（Andrew NG）的所有演讲，以文字稿双语版为主website：[Andrew Ng: Home](https://www.andrewng.org/)twitter：## 
