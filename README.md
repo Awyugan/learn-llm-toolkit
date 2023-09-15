@@ -50,7 +50,7 @@ The paper format is automatically generated using zotero software.
 
 ## 4 Related journals
 
-### Machine learning
+### 4.1 Machine learning
 
 **[NeurIPS](https://nips.cc/)**
 	2023JIF：
@@ -61,7 +61,7 @@ The paper format is automatically generated using zotero software.
 **[ICLR](https://iclr.cc/)**
 	2023JIF：
 
-### Computer vision
+### 4.2 Computer vision
 
 CVPR
 	2023JIF：
@@ -69,17 +69,17 @@ CVPR
 ECCV
 	2023JIF：
 
-### Data mining
+### 4.3 Data mining
 
 KDD
 	2023JIF：
 
-### Information retrieval and recommendation field
+### 4.4 Information retrieval and recommendation field
 
 SIGIR
 	2023JIF：
 
-### Other
+### 4.5 Other
 
 ## 5 Related network resources
 
@@ -99,19 +99,19 @@ Related resources based on machine learning, considering a series of high-qualit
 
 ## 6 Related researchers social media（or E-mail）
 
-### Preparation of instructions
+### 6.1 Preparation of instructions
 
 AI researchers include
 - Machine Learning Conference Journal
 
-### Machine Learning Conference Journal
+### 6.2 Machine Learning Conference Journal
 
 - Francis Bach 2023 ICML President
 [@BachFrancis](https://twitter.com/BachFrancis)
 
 - 
 
-### AI Company
+### 6.3 AI Company
 
 ## 7 Ref
 
