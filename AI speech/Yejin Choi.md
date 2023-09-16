@@ -1,0 +1,1 @@
+# Yejin Choi 崔艺珍website：[Yejin Choi](https://homes.cs.washington.edu/~yejin/)twitter：[@YejinChoinka](https://twitter.com/YejinChoinka)## Personal history## Speech### 2023[2023.09.14_](https://www.youtube.com/)## Ref- Youtube.com
