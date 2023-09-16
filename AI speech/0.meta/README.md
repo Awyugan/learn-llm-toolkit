@@ -1,0 +1,1 @@
+# Geoffrey Hinton 杰弗里·辛顿website：[Home Page of Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/)twitter：[Geoffrey Hinton (@geoffreyhinton)](https://twitter.com/geoffreyhinton)## Personal history## Speech### 2023[2023.09.14_](https://www.youtube.com/)## Ref- Youtube.com
