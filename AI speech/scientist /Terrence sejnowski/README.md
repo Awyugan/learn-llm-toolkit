@@ -1,1 +1,0 @@
-# Terrence sejnowski website:## Ref[A few talks by Christopher Manning](https://nlp.stanford.edu/~manning/talks/)

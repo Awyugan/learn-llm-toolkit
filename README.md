@@ -117,6 +117,9 @@ AI researchers include
 
 ### 6.3 AI Company
 
+- Sam Altman OpenAI Founder
+twitter：[Sam Altman](https://twitter.com/sama)
+
 ## 7 Ref
 
 本列表的部分内容参考自以下来源

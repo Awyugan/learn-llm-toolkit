@@ -1,0 +1,1 @@
+# Namewebsite：[Andrew Ng: Home](https://www.andrewng.org/)twitter：## Speech### 2023[2023.09.05_impact and potential of Artificial Intelligence](https://www.youtube.com/watch?v=0aePaGM04xY)## Ref- Youtube.com
