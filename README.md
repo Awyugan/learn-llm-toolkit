@@ -107,12 +107,13 @@ AI researchers include
 
 ### 6.2 People list
 
-| Name               | Twitter                                                          | Institution       |
-|--------------------|------------------------------------------------------------------|-------------------|
-| Francis Bach       | [@BachFrancis](https://twitter.com/BachFrancis)                  | ICML President    |
-| Sam Altman         | [@Sama](https://twitter.com/sama)                           | OpenAI Founder    |
-| Terrence Sejnowski | [@sejnowski](https://twitter.com/sejnowski) | NeurIPS President |
-| Yann LeCun         | [@ylecun](https://twitter.com/ylecun)                            | ICIR President    |
+| Name               | Twitter                                           | Institution                                 | H-index |
+|--------------------|---------------------------------------------------|---------------------------------------------|---------|
+| Francis Bach       | [@BachFrancis](https://twitter.com/BachFrancis)   | ICML President                              | 105     |
+| Sam Altman         | [@Sama](https://twitter.com/sama)                 | OpenAI Founder                              |         |
+| Terrence Sejnowski | [@sejnowski](https://twitter.com/sejnowski)       | NeurIPS President                           | 175     |
+| Yann LeCun         | [@ylecun](https://twitter.com/ylecun)             | ICIR President                              | 143     |
+| Yejin Choi         | [@YejinChoinka](https://twitter.com/YejinChoinka) | Allen Institute for Artificial Intelligence | 88      |
 
 ## 7 Ref
 
