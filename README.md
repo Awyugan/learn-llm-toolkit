@@ -104,21 +104,14 @@ Related resources based on machine learning, considering a series of high-qualit
 AI researchers include
 - Machine Learning Conference Journal
 
-### 6.2 Machine Learning Conference Journal
+### 6.2 People list
 
-- Francis Bach 2023 ICML President
-[@BachFrancis](https://twitter.com/BachFrancis)
-
-- Yann LeCun 2023 ICIR President
-[@ylecun](https://twitter.com/ylecun)
-
-- Terrence Sejnowski 2023 President
-[Terrence Sejnowski (@sejnowski)](https://twitter.com/sejnowski)
-
-### 6.3 AI Company
-
-- Sam Altman OpenAI Founder
-twitter：[Sam Altman](https://twitter.com/sama)
+| Name               | Twitter                                                          | Institution       |
+|--------------------|------------------------------------------------------------------|-------------------|
+| Francis Bach       | [@BachFrancis](https://twitter.com/BachFrancis)                  | ICML President    |
+| Sam Altman         | [Sam Altman](https://twitter.com/sama)                           | OpenAI Founder    |
+| Terrence Sejnowski | [Terrence Sejnowski (@sejnowski)](https://twitter.com/sejnowski) | NeurIPS President |
+| Yann LeCun         | [@ylecun](https://twitter.com/ylecun)                            | ICIR President    |
 
 ## 7 Ref
 
