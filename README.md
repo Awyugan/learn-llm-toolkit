@@ -2,15 +2,9 @@
 
 ## 1 Write In Front
 
-[中文版](/Readme-zh.md)
-
 ### 1.1 Introduction
 
 The big language model can handle natural language processing tasks. After the advent of GPT in 2023, the big language model set off an upsurge of natural language artificial intelligence. Many scholars confuse the two. Beginners retrieve natural language processing when learning. So what does the big model have to do with the previous era?
-
-编制原则
-
-
 
 Frame format reference：阳志平.网络心理学研究者参考资源.2001.2
 
@@ -22,7 +16,7 @@ E-mail：1316350441@qq.com
 
 The paper format is automatically generated using zotero software.
 
-### 1.4 使用本资源的小技巧
+### 1.4 Tips
 
 1. The literature website is invalid: The literature website may be invalid for various reasons. You can use [Wayback Machine](https://web.archive.org/)Find the original information of the web page, or enter the original link and search again in the website.https://www.osintcombine.com/post/the-osint-analyst-dilemma IF this article was not found，Retrieve at https://www.osintcombine.com/.
 
@@ -53,30 +47,37 @@ The paper format is automatically generated using zotero software.
 ### 4.1 Machine learning
 
 **[NeurIPS](https://nips.cc/)**
+	
 	2023JIF：
 
 **[ICML](https://icml.cc/)**
+	
 	2023JIF：
 
 **[ICLR](https://iclr.cc/)**
+	
 	2023JIF：
 
 ### 4.2 Computer vision
 
 CVPR
+	
 	2023JIF：
 
 ECCV
+	
 	2023JIF：
 
 ### 4.3 Data mining
 
 KDD
+	
 	2023JIF：
 
 ### 4.4 Information retrieval and recommendation field
 
 SIGIR
+	
 	2023JIF：
 
 ### 4.5 Other
@@ -114,8 +115,6 @@ AI researchers include
 | Yann LeCun         | [@ylecun](https://twitter.com/ylecun)                            | ICIR President    |
 
 ## 7 Ref
-
-本列表的部分内容参考自以下来源
 
 - [107 个值得关注的AI Twitter，61 个工具和 28 个通讯](https://hub.baai.ac.cn/view/24040)
 
