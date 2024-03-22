@@ -46,17 +46,11 @@ The paper format is automatically generated using zotero software.
 
 ### 4.1 Machine learning
 
-**[NeurIPS](https://nips.cc/)**
-	
-	2023JIF：
+**[NeurIPS](https://nips.cc/)** 2023JIF：
 
-**[ICML](https://icml.cc/)**
-	
-	2023JIF：
+**[ICML](https://icml.cc/)** 2023JIF：
 
-**[ICLR](https://iclr.cc/)**
-	
-	2023JIF：
+**[ICLR](https://iclr.cc/)** 2023JIF：
 
 ### 4.2 Computer vision
 
