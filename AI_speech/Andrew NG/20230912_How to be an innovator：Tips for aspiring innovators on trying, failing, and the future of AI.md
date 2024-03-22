@@ -1,6 +1,8 @@
 # How to be an innovator
 Tips for aspiring innovators on trying, failing, and the future of AI
 
+- [36kr稿](https://36kr.com/p/2431171820351497)
+
 # 吴恩达：如何成为创新者
 为有抱负的创新者提供关于人工智能的尝试、失败和未来的建议。
 
