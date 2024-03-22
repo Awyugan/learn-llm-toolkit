@@ -1,0 +1,1 @@
+# Sam Altmanwebsite：[blog.samaltman.com](http://blog.samaltman.com/)twitter：[Sam Altman](https://twitter.com/sama)## Speech### 2023[2023.09.14_Open AI Founder on Artificial Intelligence's Future](https://www.youtube.com/watch?v=w5nEf-HahZM)[08.18_Microsoft & OpenAI CEOs: Dawn of the AI Wars](https://www.youtube.com/watch?v=6ydFDwv-n8w)## Ref- Youtube.com
