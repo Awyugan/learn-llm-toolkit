@@ -4,6 +4,8 @@
 
 > 此次讨论于 2023 年 7 月 26 日在斯坦福大学 Cemex 礼堂举行，由斯坦福商学院主办。 
 
+🇨🇳中文稿： [吴恩达：AI里的机遇](https://mp.weixin.qq.com/s/PDrZmt9dutc7hVnboxTJWA)
+
 ## 正文
 
 What I want to do today is chat to you about some opportunities in AI.  
