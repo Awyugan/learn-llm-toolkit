@@ -41,16 +41,17 @@ The paper format is automatically generated using zotero software.
 #### 3.2.2 Single-authored books
 
 
-
 ## 4 Related journals
 
 ### 4.1 Machine learning
 
-**[NeurIPS](https://nips.cc/)** 2023JIF：
+**[NeurIPS](https://nips.cc/)** 
 
-**[ICML](https://icml.cc/)** 2023JIF：
+**[ICML](https://icml.cc/)** 
 
-**[ICLR](https://iclr.cc/)** 2023JIF：
+**[ICLR](https://iclr.cc/)** 
+
+**[(COLM)CONFERENCE ON LANGUAGE MODELING](https://colmweb.org/)**
 
 ### 4.2 Computer vision
 
