@@ -43,15 +43,17 @@ The paper format is automatically generated using zotero software.
 
 ## 4 Related journals
 
+ref [CCF推荐国际学术刊物目录]https://www.ccf.org.cn/Academic_Evaluation/By_category/
+
 ### 4.1 Machine learning
 
-**[NeurIPS](https://nips.cc/)** 
+**[(NeurIPS) Neural Information Processing Systems](https://nips.cc/)** 
 
-**[ICML](https://icml.cc/)** 
+**[(ICML) International Conference on Machine Learning](https://icml.cc/)** 
 
-**[ICLR](https://iclr.cc/)** 
+**[(ICLR) International Conference on Learning Representations](https://iclr.cc/)** 
 
-**[(COLM)CONFERENCE ON LANGUAGE MODELING](https://colmweb.org/)**
+**[(COLM) CONFERENCE ON LANGUAGE MODELING](https://colmweb.org/)**
 
 ### 4.2 Computer vision
 
